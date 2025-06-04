@@ -3,7 +3,8 @@
 
 StressRelievee is a semi-automated wearable device designed to help users manage stress through heart rate monitoring and vibrotactile feedback. Developed using the ESP32 microcontroller, this prototype provides real-time calming vibrations in response to elevated heart rates, promoting a relaxed state. The system features Bluetooth Low Energy (BLE) communication with a mobile app for manual or automatic operation.
 
-<img width="504" alt="image" src="https://github.com/user-attachments/assets/2c12b679-9d51-4c7a-a0df-ac883c6249d3" />
+<img width="367" alt="Screenshot 2025-06-04 at 10 41 23 PM" src="https://github.com/user-attachments/assets/75b6cb82-58b0-4320-9af6-6afbfa3d4783" />
+
 
 ## Features
 - **Heart Rate Monitoring:** Detects elevated heart rates using a MAX30100 sensor.
@@ -41,7 +42,7 @@ The device continuously monitors heart rate and compares it against predefined t
 
 <img width="453" alt="image" src="https://github.com/user-attachments/assets/1890c588-5dcc-4913-8e38-71e557f84456" />
 
-<img width="651" alt="image" src="https://github.com/user-attachments/assets/176737a1-6c63-4ae4-af5b-10f6a5f37d72" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/176737a1-6c63-4ae4-af5b-10f6a5f37d72" />
 
 ## Installation
 ### Prerequisites
