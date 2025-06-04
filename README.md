@@ -1,4 +1,4 @@
-# CalmSync---Smart-StressRelieve
+# CalmSync - Smart-StressRelieve
 
 
 StressRelievee is a semi-automated wearable device designed to help users manage stress through heart rate monitoring and vibrotactile feedback. Developed using the ESP32 microcontroller, this prototype provides real-time calming vibrations in response to elevated heart rates, promoting a relaxed state. The system features Bluetooth Low Energy (BLE) communication with a mobile app for manual or automatic operation.
