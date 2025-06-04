@@ -3,7 +3,7 @@
 
 StressRelievee is a semi-automated wearable device designed to help users manage stress through heart rate monitoring and vibrotactile feedback. Developed using the ESP32 microcontroller, this prototype provides real-time calming vibrations in response to elevated heart rates, promoting a relaxed state. The system features Bluetooth Low Energy (BLE) communication with a mobile app for manual or automatic operation.
 
-<img width="1057" alt="image" src="https://github.com/user-attachments/assets/19b7adb5-991e-43d3-add8-f893130d1860" />
+<img width="504" alt="image" src="https://github.com/user-attachments/assets/2c12b679-9d51-4c7a-a0df-ac883c6249d3" />
 
 ## Features
 - **Heart Rate Monitoring:** Detects elevated heart rates using a MAX30100 sensor.
@@ -52,15 +52,6 @@ The device continuously monitors heart rate and compares it against predefined t
    - BLEDevice
    - BLEServer
 
-### Steps
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/StressRelievee.git
-   ```
-2. Open the provided Arduino sketch in the `code/` directory.
-3. Upload the sketch to your ESP32.
-4. Install the nRF Connect app on your mobile device.
-5. Pair the app with the ESP32 device and follow the prompts.
 
 ## Testing
 1. Simulate heart rate using Wokwi.
