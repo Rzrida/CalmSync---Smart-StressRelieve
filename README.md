@@ -42,7 +42,7 @@ The device continuously monitors heart rate and compares it against predefined t
 
 <img width="453" alt="image" src="https://github.com/user-attachments/assets/1890c588-5dcc-4913-8e38-71e557f84456" />
 
-<img width="450" alt="image" src="https://github.com/user-attachments/assets/176737a1-6c63-4ae4-af5b-10f6a5f37d72" />
+<img width="503" alt="image" src="https://github.com/user-attachments/assets/8d61d658-68ed-4dec-a670-ac94555dc03b" />
 
 ## Installation
 ### Prerequisites
